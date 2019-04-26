@@ -31,7 +31,8 @@ or
 ## Git setup
 
 1. `git init`
-2. `git add<file_name>`
+2. `git add ./<file_name>`
 3. `git commit -m "your_massage"`
+4. `git push`
 
 ## THE END
